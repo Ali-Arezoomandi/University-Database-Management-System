@@ -41,6 +41,12 @@ The main goals of this project are:
 
 ---
 
+## 🖥️ Application Screenshot
+
+![University Management System](readme/1.png)
+
+---
+
 # 📁 Project Structure
 
 University_Management_System/
@@ -587,9 +593,3 @@ Ali-Arezoomandi
 Database Design Course Final Project
 
 University Database Management System
-
----
-
-## 🖥️ Application Screenshot
-
-![University Management System](readme/1.png)
