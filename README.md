@@ -49,6 +49,7 @@ The main goals of this project are:
 
 # 📁 Project Structure
 
+```
 University_Management_System/
 │
 ├── .venv/                     # Virtual environment and installed libraries
@@ -78,6 +79,7 @@ University_Management_System/
 ├── 1.png                      # Application screenshot
 │
 └── university_management.py   # Main application entry point and GUI
+```
 
 ---
 
