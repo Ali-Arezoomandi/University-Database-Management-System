@@ -559,7 +559,7 @@ pip install pillow
 Run application:
 
 ```bash
-python main.py
+python university_management.py
 ```
 
 ---
