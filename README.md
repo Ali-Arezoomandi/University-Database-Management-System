@@ -590,7 +590,8 @@ python main.py
 # 👨‍💻 Author
 
 Ali-Arezoomandi 
-📧 Contact: [ali.arezoomandi1723.email@example.com] & [komeilahankoobi@gmail.com] 💻 GitHub: https://github.com/Ali-Arezoomandi
+📧 Contact: [ali.arezoomandi1723.email@example.com]
+💻 GitHub: https://github.com/Ali-Arezoomandi
 
 Database Design Course Final Project
 
